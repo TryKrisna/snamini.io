@@ -1,0 +1,66 @@
+.myheader{
+    position: fixed;
+    top: 0;
+}
+.hi{
+    /* padding: 0px 0px; */
+}
+/* body{
+    background-color:#198754;
+} */
+.login-contents{
+    margin-top: 150px;
+    margin-bottom: 100px;
+    /* margin-left: 100px; */
+    /* margin-right: 100px; */
+
+}
+.login-contents .box {
+    width: 100%;
+ text-align: center;
+ margin: auto;
+}
+
+.myform{
+    height: 380px;
+    width: 400px;
+    border: 2px solid #198754;
+   box-shadow:5px 5px 3px 2px #198754;
+    padding: 50px;
+    border-radius: 20px;
+    margin: 0px auto;
+}
+
+
+
+
+
+/* Responsive solution */
+
+/* Extra large devices (large desktop, 1200px and up) */
+
+@media (min-width: 1200px)
+{
+
+}
+/* Large devices (desktop, 992px and up */
+@media (min-width: 992px) and (max-width: 1199.98px)
+{
+
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px)
+{
+
+}
+/* Small devices (landscape phone, 576px and up */
+@media (min-width: 576px) and (max-width: 767.98px)
+{
+
+}
+
+/* Extra small devices (protrait phone , less that 567px)*/
+@media (max-width: 575.98px)
+{
+}
+
